@@ -83,3 +83,16 @@ label {
     margin-bottom: 8px;
     margin-left: 5px;
 }
+
+input[type="date"] {
+    width: 100%;
+    padding: 15px 20px;
+    border-radius: 12px;
+    border: 1px solid var(--glass-border);
+    background: rgba(0, 0, 0, 0.2);
+    color: #fff;
+    font-style: 16px;
+    outline: none;
+    transition: 0.3s;
+    color-scheme: dark;
+}
