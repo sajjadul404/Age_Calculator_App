@@ -56,3 +56,11 @@ body {
     text-align: center;
     margin: 20px;
 }
+
+h1 {
+    color: var(--text-color);
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
