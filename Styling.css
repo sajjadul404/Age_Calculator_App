@@ -70,3 +70,8 @@ h1 span {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.input-group {
+    margin-bottom: 30px;
+    text-align: left;
+}
