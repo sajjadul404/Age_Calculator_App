@@ -64,3 +64,9 @@ h1 {
     margin-bottom: 30px;
     letter-spacing: 1px;
 }
+
+h1 span {
+    background: linear-gradient(to right, var(--primary-color), #9d50bb);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
