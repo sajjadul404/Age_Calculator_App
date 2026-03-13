@@ -96,3 +96,8 @@ input[type="date"] {
     transition: 0.3s;
     color-scheme: dark;
 }
+
+input[type="date"]:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 15px rgba(0, 210, 255, 0.2);
+}
