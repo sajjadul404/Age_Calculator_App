@@ -152,3 +152,10 @@ button:active {
 .result-card span {
     display: block;
 }
+
+.number {
+    font-size: 32px;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 5px;
+}
