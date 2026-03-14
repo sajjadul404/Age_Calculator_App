@@ -137,3 +137,14 @@ button:active {
     margin-top: 40px;
     gap: 10px;
 }
+
+.result-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--glass-border);
+    padding: 15px 10px;
+    border-radius: 16px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
