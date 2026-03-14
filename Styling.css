@@ -130,3 +130,10 @@ button:hover {
 button:active {
     transform: translateY(0);
 }
+
+.result-box {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    gap: 10px;
+}
