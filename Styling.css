@@ -101,3 +101,14 @@ input[type="date"]:focus {
     border-color: var(--primary-color);
     box-shadow: 0 0 15px rgba(0, 210, 255, 0.2);
 }
+
+button {
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 12px;
+    background: linear-gradient(
+        135deg,
+        var(--secondary-color),
+        var(--primary-color)
+    );}
