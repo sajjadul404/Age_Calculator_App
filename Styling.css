@@ -148,3 +148,7 @@ button:active {
     flex-direction: column;
     align-items: center;
 }
+
+.result-card span {
+    display: block;
+}
