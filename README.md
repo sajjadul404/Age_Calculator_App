@@ -22,7 +22,7 @@
 # 📸 Preview
 
 <p align="center">
-  <img src="assets/age-calculator.png" alt="Age Calculator Screenshot" width="900"/>
+  <img src="assets/image.png" alt="Age Calculator Screenshot" width="900"/>
 </p>
 
 ---
