@@ -22,7 +22,7 @@
 # 📸 Preview
 
 <p align="center">
-  <img src="assets/image.png" alt="Age Calculator Screenshot" width="900"/>
+  <img src="assets/Age_Calculator.png" alt="Age_Calculator" width="900"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@ Age_Calculator_App
 ├── Logic.js
 ├── README.md
 └── assets
-    └── image.png
+    └── Age_Calculator.png
 ```
 
 ---
