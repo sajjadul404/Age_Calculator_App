@@ -59,7 +59,7 @@ Age_Calculator_App
 ├── Logic.js
 ├── README.md
 └── assets
-    └── age-calculator.png
+    └── image.png
 ```
 
 ---
